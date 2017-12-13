@@ -1,0 +1,1 @@
+First "website" after a quick intro to HTML and CSS on the SoftWareGuild free intro course. This is my first attempt at making a page and playing around with CSS.

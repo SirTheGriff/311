@@ -1,0 +1,43 @@
+
+h3 {
+    font-family: Georgia, Times, serif;
+    font-size: 25px;
+    line-height: 2.5em;
+    color: darkblue;
+    border-top: 3px solid black;
+}
+
+td {
+    color: darkred;
+}
+
+div {
+    background-image: url("images/311.jpg");
+    background-position: 50% 0%;
+    width: 250px;
+    height: 250px;
+}
+
+li {
+    font-style: italic;
+}
+
+.table {
+    background-color: lightcyan;
+    font-style: italic;
+}
+
+a:link {
+    color: Green;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: #241071;
+    text-decoration: none;
+    font-family: cursive;
+    background-color: darkslategray;
+}
